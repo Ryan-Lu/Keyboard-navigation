@@ -13,4 +13,4 @@
 
 -例如我在 'G' 字母键上绑定了 'www.google.com' 那么我只需要在这个网页上敲一下 'G' 字母，即可跳转到谷歌的网站。
 
-你可以点击[键盘导航栏](https://ryan-lu.github.io/Keyboard-navigation/index.html)来试试看这个网页怎么样，如果觉得方便的话可以把它设置成你的浏览器首页哦，嘿嘿 ;P
+你可以点击 [键盘导航栏](https://ryan-lu.github.io/Keyboard-navigation/index.html) 来试试看这个网页怎么样，如果觉得方便的话可以把它设置成你的浏览器首页哦，嘿嘿 ; P
